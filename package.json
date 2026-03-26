@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Test vulnerabilities for FixForge AI",
   "dependencies": {
-    "lodash": "4.17.15",
-    "axios": "0.21.0",
-    "express": "4.16.0",
+    "lodash": "4.17.21",
+    "axios": "1.6.0",
+    "express": "4.18.2",
     "jsonwebtoken": "8.5.0",
-    "minimist": "0.0.8"
+    "minimist": "1.2.6"
   }
 }
